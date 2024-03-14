@@ -1,0 +1,4 @@
+﻿  source.cpp
+D:\LNU\matrixmodna\source.cpp(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\LNU\matrixmodna\source.cpp(100,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  matrixmodna.vcxproj -> D:\LNU\matrixmodna\x64\Debug\matrixmodna.exe

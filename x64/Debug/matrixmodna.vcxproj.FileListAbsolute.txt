@@ -1,0 +1,4 @@
+D:\LNU\matrixmodna\x64\Debug\matrixmodna.exe
+D:\LNU\matrixmodna\x64\Debug\matrixmodna.vcxproj.CopyComplete
+D:\LNU\matrixmodna\x64\Debug\gtest.pdb
+D:\LNU\matrixmodna\x64\Debug\gtest_main.pdb
